@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **hi@ezesunday.com**
 
+[Download my cv](https://github.com/ezesundayeze/ezesundayeze/raw/master/eze.png "My CV")
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -31,6 +33,4 @@
 <a href="https://medium.com/@ezesunday" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ezesunday" height="30" width="30" /></a>
 </p>
 
-My CV
 
-![Eze](eze.png "My CV")
