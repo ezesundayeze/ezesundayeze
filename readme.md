@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezesundayeze" alt="ezesundayeze" /> </p>
 
-- 🔭 I’m currently working on [Mealer](mealer.io)
+- 🔭 I’m currently working on [Mealer](https://mealer.io)
 
 - 🌱 I’m currently learning **Algorithms, Data Structures, DevOps**
 
