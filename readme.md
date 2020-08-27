@@ -1,1 +1,1 @@
-![Eze](eze.png "CV")
+![Eze](eze.png "My CV")
