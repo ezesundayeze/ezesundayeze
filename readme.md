@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezesundayeze" alt="ezesundayeze" /> </p>
 
-- 🔭 I’m currently working on [Mealer](https://mealer.io)
-
+- 🔭 I built [Mealer](http://mealer.io), [GuardedPay](https://www.guardedpay.com)
 - 🌱 I’m currently learning **Algorithms, Data Structures, DevOps**
 
 - 👯 I’m looking to collaborate on **any interesting project**
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **hi@ezesunday.com**
 
-[Download my cv](https://github.com/ezesundayeze/ezesundayeze/raw/master/eze.png "My CV")
+[Download my cv](https://www.canva.com/design/DAEEiHHUw44/hKlZd547q-o_-Ap82dAmIQ/view?utm_content=DAEEiHHUw44&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu "My CV")
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
