@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezesundayeze" alt="ezesundayeze" /> </p>
 
 - 🔭 I built [Raveshift](http://raveshift.com), [GuardedPay](https://www.guardedpay.com)
-- 🌱 I’m currently learning **Algorithms, Data Structures, DevOps**
+- 🌱 I’m currently learning **Web Security, Cryptography, and Designs**
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
