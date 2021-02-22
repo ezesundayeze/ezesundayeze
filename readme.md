@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
-- 📝 I regulary write articles on [medium.com/ezesunday](medium.com/ezesunday)
+- 📝 I regulary write articles on [medium.com/ezesunday](https://medium.com/ezesunday)
 
 - 💬 Ask me about **React, NodeJS, Javascript, Python, Django, MongoDB, MySQL**
 
