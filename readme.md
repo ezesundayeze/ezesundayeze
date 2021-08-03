@@ -3,19 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezesundayeze" alt="ezesundayeze" /> </p>
 
-- 🔭 I built [Raveshift](http://raveshift.com), [GuardedPay](https://www.guardedpay.com)
-- 🌱 I’m currently learning **Web Security, Cryptography, and Designs**
-
-- 👯 I’m looking to collaborate on **any interesting project**
-
-- 📝 I regulary write articles on [medium.com/ezesunday](https://medium.com/ezesunday)
+- 🔭 Building [Raveshift](http://raveshift.com)
+- 🌱 I’m currently learning **Web Security and Cryptography**
 
 - 💬 Ask me about **React, NodeJS, Javascript, Python, Django, MongoDB, MySQL**
 
 - 📫 How to reach me **hi@ezesunday.com**
-
-[Download my cv](https://www.canva.com/design/DAEEiHHUw44/hKlZd547q-o_-Ap82dAmIQ/view?utm_content=DAEEiHHUw44&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu "My CV")
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezesundayeze&show_icons=true" alt="ezesundayeze" /></p>
 
