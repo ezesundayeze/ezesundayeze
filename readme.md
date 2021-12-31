@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezesundayeze" alt="ezesundayeze" /> </p>
 
-- 🔭 Building [Raveshift](http://raveshift.com)
-- 🌱 I’m currently learning **Web Security and Cryptography**
-
-- 💬 Ask me about **React, NodeJS, Javascript, Python, Django, MongoDB, MySQL**
+- 🔭 Building [Lopeer](http://lopeer.com)
 
 - 📫 How to reach me **hi@ezesunday.com**
 
