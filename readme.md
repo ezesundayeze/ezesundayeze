@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eze Sunday</h1>
-<h3 align="center">A passionate software engineer from Nigeria</h3>
+<h3 align="center">I Write for humans and code for computers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezesundayeze" alt="ezesundayeze" /> </p>
 
