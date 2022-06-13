@@ -5,7 +5,7 @@
 
 - 🔭 Building [Lopeer](http://lopeer.com)
 
-- 📫 How to reach me **hi@ezesunday.com**
+- 📫 **hi@ezesunday.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezesundayeze&show_icons=true" alt="ezesundayeze" /></p>
 
