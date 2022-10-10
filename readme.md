@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, I'm Eze Sunday</h1>
-<h3 align="center">I Write for humans and code for computers</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezesundayeze" alt="ezesundayeze" /> </p>
+# **About me:**
 
-- 🔭 Building [Lopeer](http://lopeer.com)
+- Hi 👋🏾! I’m Eze. I grew up in Nigeria and I currently live in Nigeria. I got introduced to software as a teen, and I was introduced to blockchain technology at 25.
+- Previously, I worked with a couple of software startups In Nigeria, in Health and Fintech specifically 😉
+- I have HND in computer science from the Institute of Management and Technology, Enugu, Nigeria in 2018.
+- I currently work at the Librium which is focused on building blockchain and DeFi applications
 
-- 📫 **hi@ezesunday.com**
+**Fun Facts:**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezesundayeze&show_icons=true" alt="ezesundayeze" /></p>
+- I like blogging about my personal interest, social economics, and programming.
 
-<p align="center"> 
-<a href="https://dev.to/ezesundayeze" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ezesundayeze" height="30" width="30" /></a>
-<a href="https://twitter.com/ezesundayeze" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ezesundayeze" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/ezesundayeze" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ezesundayeze" height="30" width="30" /></a>
-<a href="https://instagram.com/ezesundayeze" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ezesundayeze" height="30" width="30" /></a>
-<a href="https://medium.com/@ezesunday" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ezesunday" height="30" width="30" /></a>
-</p>
+**Connect With Me:**
 
+- Linkedin: https://www.linkedin.com/in/ezesundayeze/
+- Twitter: [https://twitter.com/ezesundayeze](https://twitter.com/ezesundayeze)
 
