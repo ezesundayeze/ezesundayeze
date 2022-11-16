@@ -1,7 +1,7 @@
 
 # **About me:**
 
-[ezesunday.com](ezesunday.com)
+[ezesunday.com](http://ezesunday.com)
 
 **Connect With Me:**
 
