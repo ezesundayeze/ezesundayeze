@@ -10,14 +10,17 @@ But I'm not just about coding; I also enjoy sharing my knowledge and experiences
 
 If you want to chat, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ezesundayeze/) or [Twitter](https://twitter.com/ezesundayeze). Or you can check out [my website](https://ezesunday.com) to learn more about my work and thoughts. Looking forward to connecting with you!
 
-**Connect With Me:**
+**Connect With Me:** 🍒
 
 - Linkedin: https://www.linkedin.com/in/ezesundayeze/
 - Twitter: [https://twitter.com/ezesundayeze](https://twitter.com/ezesundayeze)
 
-## What I am upto?
+## What I am upto? 💡
 * Building [Lopeer](lopeer.com)
 * Learning [Rust](https://ezesunday.com/blog/use-rust-in-a-node-js-project/)
 * Building [Error handling and monitoring tools](https://github.com/ezesundayeze/olamma) - open source
 * Technical Writing
+
+Reading 📚
+[HTTP RFC7230](https://datatracker.ietf.org/doc/html/rfc7230)
 
