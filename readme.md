@@ -1,5 +1,6 @@
 
 # Eze Sunday Eze
+<img src="https://ezesunday.com/eze.png" alt="Image" width="300" style="border-radius: 50%;">
 
 Hi there, 
 I'm Eze Sunday Eze! A software engineer with a special focus on web technologies. I've had the opportunity to build some pretty cool projects like Relaywash, an app that makes cleaning services a breeze. And Lopeer, a friendly app that helps people manage their finances and dabble in crypto investment. 
