@@ -22,6 +22,6 @@ Reading 📚
 - [HTTP RFC7230](https://datatracker.ietf.org/doc/html/rfc7230)
 
 Personal quote
-| There's always some good in people, you just have to see it
+> There's always some good in people, you just have to see it
 
 
