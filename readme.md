@@ -2,7 +2,7 @@
 # Eze Sunday Eze
 
 <div style="text-align: center;">
-  <img src="https://ezesunday.com/eze.png" alt="Image" style="border-radius: 50%;">
+  <img src="https://ezesunday.com/eze.png" alt="Image" style="border-radius: 50%; width:100px">
 </div>
 
 
