@@ -18,8 +18,12 @@ If you want to chat, feel free to connect with me on [LinkedIn](https://www.link
 * Building [Error handling and monitoring tools](https://github.com/ezesundayeze/olamma) - open source
 * Technical Writing - [my blog](https://ezesunday.com/blog) and [others](https://ezesunday.com/published)
 
-Reading 📚
+## Reading 📚
 - [HTTP RFC7230](https://datatracker.ietf.org/doc/html/rfc7230)
+
+## Contact Me
+- via my [website](ezesunday.com)
+- Email (mailstoeze@gmail.com)
 
 Personal quote
 > There's always some good in people, you just have to see it
