@@ -25,7 +25,7 @@ If you want to chat, feel free to connect with me on [LinkedIn](https://www.link
 - via my [website](ezesunday.com)
 - Email (mailstoeze@gmail.com)
 
-Personal quote
+## Personal quote
 > There's always some good in people, you just have to see it
 
 
