@@ -10,7 +10,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ezesunday
 - [HTTP RFC7230](https://datatracker.ietf.org/doc/html/rfc7230)
 
 ## Contact Me
-- via my [website](ezesunday.com)
+- via my [website](https://ezesunday.com)
 - Email (mailstoeze@gmail.com)
 
 ## Personal quote
