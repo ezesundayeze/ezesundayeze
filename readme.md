@@ -1,6 +1,6 @@
 
 * Building [Lopeer](https://lopeer.com) + [Batimus](https://batimus.com)
-* Mastering Rust
+* Mastering Rust + Solidity
 * Technical Writing - [my blog](https://ezesunday.com/blog) and [others](https://ezesunday.com/published)
 
 ## Reading 📚
