@@ -1,10 +1,7 @@
 
 * Building [Lopeer](https://lopeer.com) + [Batimus](https://batimus.com)
 * Mastering Rust + Solidity
-* Technical Writing - [my blog](https://ezesunday.com/blog) and [others](https://ezesunday.com/published)
-
-## Reading 📚
-- [Surrounded by Idiots](https://www.amazon.com/Surrounded-Idiots-Behavior-Effectively-Communicate/dp/1250179947)
+* Recent article - [ABI Encoding for Function Call in Solidity](https://www.rareskills.io/post/abi-encoding)
 
 ## Contact Me
 - via my [website](https://ezesunday.com)
